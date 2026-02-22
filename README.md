@@ -1,5 +1,4 @@
-It uses Adjacency List to represent a Graph
-The algorithm gives the shortest path
+It uses Adjacency List to represent a Graph. The algorithm gives the shortest path
 
 FLOW:
 
